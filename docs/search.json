@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Oral Presentations\n\n2025\nModeling Habitat Suitability of Alpine Breeding Bird Species in Sierra Nevada, California Based on Historical Data\nSOAR Annual All-Hands Symposium\nStanford University\n\n\n2025\nStrategies for Ecological Sustainability in UC Santa Cruz\nEcological Society of America 110th Annual Meeting\nBaltimore, MD\n\n\n2025\n3D Reconstruction for Biomass Estimation\nBanatao Institute Symposium for Drone Education\nUC Santa Cruz\n\n\n2024\nModeling Habitat Suitability of Alpine Breeding Bird Species in Sierra Nevada, California Based on Historical Data\nUCSC CAMINO Symposium\n\n\n\n\nPoster Presentations\n\n2025\nComparing the Performance of Statistical vs Mechanistic Models of Range Dynamics of Shortbelly Rockfish in California\nWestern Society of Naturalists (WSN)\n\n\n2025\nComparing the Performance of Statistical vs Mechanistic Models of Range Dynamics of Shortbelly Rockfish in California\nSACNAS NDiSTEM Conference\n\n\n2025\nComparing the Performance of Statistical vs Mechanistic Models of Range Dynamics of Shortbelly Rockfish in California\nSTEM Diversity Symposium"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Luis Mario Ramirez Cruz",
+    "section": "",
+    "text": "Hey! I’m a quantitative biologist and undergraduate researcher at the University of California Santa Cruz pursuing a double major in Computer Engineering and Biology.\nMy research integrates data science, ecological modeling, and conservation biology to understand how environmental change affects species distributions and population dynamics.\nI currently work on species distribution models and dynamic range models of Pacific rockfish to improve forecasts of marine populations under climate change."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Luis Mario Ramirez Cruz",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nSpecies Distribution Modeling (SDMs)\nPopulation and Range Dynamics\nClimate Change Ecology\nMarine and Alpine Ecosystems\nComputational Ecology\nGeospatial Analysis"
+  },
+  {
+    "objectID": "index.html#current-affiliation",
+    "href": "index.html#current-affiliation",
+    "title": "Luis Mario Ramirez Cruz",
+    "section": "Current Affiliation",
+    "text": "Current Affiliation\nUniversity of California Santa Cruz\nComputational Biology & Ecology Researcher"
+  },
+  {
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Luis Mario Ramirez Cruz",
+    "section": "Current Research",
+    "text": "Current Research\nThe Fredston Lab — UC Santa Cruz\nComparing the performance of statistical Species Distribution Models and mechanistic Dynamic Range Models to forecast the distribution of Shortbelly Rockfish in California.\nThis work examines how recruitment variability, spatial population dynamics, and environmental drivers affect abundance in a commercially important groundfish species."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Luis Mario Ramirez Cruz",
+    "section": "Contact",
+    "text": "Contact\nEmail: lramir58@ucsc.edu"
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards",
+    "section": "",
+    "text": "Scholarships & Awards\n\n2025 – Present\nErnest F. Hollings Undergraduate Scholarship\n\n\n2025 – 2027\nUC Leadership Excellence through Advanced Degrees (UC LEADS)\n\n\n2025 – Present\nNOAA Climate Scholars Program Scholarship\n\n\n2025 – Present\nUndergraduate Koret Scholarship\n\n\n2025\nWestern Association of Marine Laboratories Student Award\n\n\n2025\nDiversifying Ocean Sciences MISS Scholarship\n\n\n2025\nHispanic Scholarship Foundation Scholar\n\n\n2025\nESA SEEDS Undergraduate Conference Award\n\n\n2025\nESA SEEDS Henry L. Gholz National Award\n\n\n2024 – 2025\nNSF ORCC Research Project (Award #2222524)\n\n\n2024\nUCSC CITRIS Initiative for Drone Education and Research (CIDER) Scholar\n\n\n2024 – Present\nWilliam Beye Heald Scholarship\n\n\n2024 – Present\nRobert H. Bisno Endowed Scholarship\n\n\n2023 – 2024\nUCSC CAMINO Scholar"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on applying quantitative and computational methods to ecological and conservation questions. I combine spatial data, environmental datasets, and statistical modeling to understand how species respond to environmental change.\nMy work spans marine ecosystems and alpine environments, with a focus on predicting how climate change affects species distributions and population dynamics.\n\n\n\nFredston Lab — University of California Santa Cruz\nI lead a research project comparing statistical Species Distribution Models (SDMs) and mechanistic Dynamic Range Models (DRMs) to forecast the distribution of Shortbelly Rockfish in California.\nThis research integrates:\n\nBottom trawl survey data (2003–2024)\nEnvironmental variables\nSpatial population dynamics\nRecruitment variability\n\nThe goal is to improve predictions of species abundance under climate change for a key species in California’s commercial groundfish fishery.\n\n\n\n\nZavaleta Conservation Science & Solutions Lab\nI led a project analyzing historical museum and observation records to model habitat suitability of alpine bird species in the Sierra Nevada.\nSpecies studied include:\n\nHorned Lark\n\nHermit Thrush\n\nCassin’s Finch\n\nUsing historical records from 1939–1990, we created a database of 2,344 observations across 105 species and applied habitat suitability models to assess potential climate-driven distribution changes.\n\n\n\n\nI collaborated with researchers studying Gray-Crowned Rosy Finch populations to examine ecological responses to warming at high elevations.\nThis work involved building spatial databases of species abundance from 1908–2018 and integrating geospatial and ecological datasets for climate impact analysis.\n\n\n\n\nWilmers Lab of Wildlife Ecology\nWorked on the Botswana Carnivore Latrine Project, studying how territoriality and social behavior influence habitat selection and movement patterns in large carnivores.\nThis research involved behavioral analysis across 30+ species of Botswana fauna."
+  },
+  {
+    "objectID": "about.html#species-distribution-modeling-of-pacific-rockfish",
+    "href": "about.html#species-distribution-modeling-of-pacific-rockfish",
+    "title": "Research",
+    "section": "",
+    "text": "Fredston Lab — University of California Santa Cruz\nI lead a research project comparing statistical Species Distribution Models (SDMs) and mechanistic Dynamic Range Models (DRMs) to forecast the distribution of Shortbelly Rockfish in California.\nThis research integrates:\n\nBottom trawl survey data (2003–2024)\nEnvironmental variables\nSpatial population dynamics\nRecruitment variability\n\nThe goal is to improve predictions of species abundance under climate change for a key species in California’s commercial groundfish fishery."
+  },
+  {
+    "objectID": "about.html#alpine-bird-habitat-suitability-modeling",
+    "href": "about.html#alpine-bird-habitat-suitability-modeling",
+    "title": "Research",
+    "section": "",
+    "text": "Zavaleta Conservation Science & Solutions Lab\nI led a project analyzing historical museum and observation records to model habitat suitability of alpine bird species in the Sierra Nevada.\nSpecies studied include:\n\nHorned Lark\n\nHermit Thrush\n\nCassin’s Finch\n\nUsing historical records from 1939–1990, we created a database of 2,344 observations across 105 species and applied habitat suitability models to assess potential climate-driven distribution changes."
+  },
+  {
+    "objectID": "about.html#high-elevation-climate-change-and-rosy-finch-dynamics",
+    "href": "about.html#high-elevation-climate-change-and-rosy-finch-dynamics",
+    "title": "Research",
+    "section": "",
+    "text": "I collaborated with researchers studying Gray-Crowned Rosy Finch populations to examine ecological responses to warming at high elevations.\nThis work involved building spatial databases of species abundance from 1908–2018 and integrating geospatial and ecological datasets for climate impact analysis."
+  },
+  {
+    "objectID": "about.html#wildlife-ecology-and-carnivore-behavior",
+    "href": "about.html#wildlife-ecology-and-carnivore-behavior",
+    "title": "Research",
+    "section": "",
+    "text": "Wilmers Lab of Wildlife Ecology\nWorked on the Botswana Carnivore Latrine Project, studying how territoriality and social behavior influence habitat selection and movement patterns in large carnivores.\nThis research involved behavioral analysis across 30+ species of Botswana fauna."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Luis Mario Ramirez Cruz\nUniversity of California Santa Cruz\nEmail: lramir58@ucsc.edu\nPhone: (619) 672-3736\n\n\n\nPortfolio\nhttps://sites.google.com/ucsc.edu/luisramirezportfolio\n\n\n\n\n\nEcological modeling\nClimate change biology\nMarine ecology\nComputational ecology\nConservation science"
+  },
+  {
+    "objectID": "contact.html#professional-links",
+    "href": "contact.html#professional-links",
+    "title": "Contact",
+    "section": "",
+    "text": "Portfolio\nhttps://sites.google.com/ucsc.edu/luisramirezportfolio"
+  },
+  {
+    "objectID": "contact.html#research-interests",
+    "href": "contact.html#research-interests",
+    "title": "Contact",
+    "section": "",
+    "text": "Ecological modeling\nClimate change biology\nMarine ecology\nComputational ecology\nConservation science"
+  },
+  {
+    "objectID": "photos.html",
+    "href": "photos.html",
+    "title": "Photos",
+    "section": "",
+    "text": "Fieldwork & Research"
+  }
+]
