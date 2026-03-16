@@ -1,0 +1,22 @@
+---
+title: "THE FREDSTON LAB"
+subtitle: "Quantitative Marine Biogeography | UC Santa Cruz"
+#image: images/couch-kits.JPG
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/afredston
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/afredston.bsky.social
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=zStqHYEAAAAJ&hl=en&oi=ao
+    - icon: envelope
+      text: Email
+      href: mailto:fredston@ucsc.edu
+---
+
+The Fredston Lab is part of the [Department of Ocean Sciences at the University of California, Santa Cruz](https://ocean.ucsc.edu/). Our team of quantitative ecologists uses data science, modeling, and synthetic approaches to solve interdisciplinary environmental problems, particularly in the sea. Across many geographies, systems, and scales, we study marine biogeographic patterns and ecological processes; how human influences are reshaping them; and how well their dynamics can be predicted with models. Most of these projects are co-developed with ocean managers and stakeholders, advancing biodiversity conservation and human well-being while also contributing to foundational science.

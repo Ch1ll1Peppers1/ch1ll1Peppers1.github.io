@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 72ccb3d2-5269-4b01-bb12-ecf6ccb1c158
+      url: 'https://wonderful-swan-d09521.netlify.app'
