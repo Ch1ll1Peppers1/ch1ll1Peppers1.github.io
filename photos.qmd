@@ -1,0 +1,13 @@
+---
+title: "Photos"
+---
+
+# Fieldwork & Research
+
+![](images/fieldwork1.jpg)
+
+![](images/research_boat.jpg)
+
+![](images/alpine_fieldwork.jpg)
+
+![](images/lab_research.jpg)
