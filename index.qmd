@@ -18,5 +18,34 @@ about:
       text: Email
       href: mailto:lramir58@ucsc.edu
 ---
+Hey! I'm a quantitative biologist and undergraduate researcher at the University of California Santa Cruz pursuing a **double major in Computer Engineering and Biology**.
 
-The Fredston Lab is part of the [Department of Ocean Sciences at the University of California, Santa Cruz](https://ocean.ucsc.edu/). Our team of quantitative ecologists uses data science, modeling, and synthetic approaches to solve interdisciplinary environmental problems, particularly in the sea. Across many geographies, systems, and scales, we study marine biogeographic patterns and ecological processes; how human influences are reshaping them; and how well their dynamics can be predicted with models. Most of these projects are co-developed with ocean managers and stakeholders, advancing biodiversity conservation and human well-being while also contributing to foundational science.
+My research integrates **data science, ecological modeling, and conservation biology** to understand how environmental change affects species distributions and population dynamics.
+
+I currently work on **species distribution models and dynamic range models of Pacific rockfish** to improve forecasts of marine populations under climate change.
+
+## Research Interests
+
+- Species Distribution Modeling (SDMs)
+- Population and Range Dynamics
+- Climate Change Ecology
+- Marine and Alpine Ecosystems
+- Computational Ecology
+- Geospatial Analysis
+
+## Current Affiliation
+
+University of California Santa Cruz  
+Computational Biology & Ecology Researcher
+
+## Current Research
+
+**The Fredston Lab — UC Santa Cruz**
+
+Comparing the performance of statistical **Species Distribution Models** and mechanistic **Dynamic Range Models** to forecast the distribution of **Shortbelly Rockfish** in California.
+
+This work examines how recruitment variability, spatial population dynamics, and environmental drivers affect abundance in a commercially important groundfish species.
+
+## Contact
+
+Email: lramir58@ucsc.edu  
