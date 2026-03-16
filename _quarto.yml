@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Luis Mario Ramirez Cruz"
@@ -17,7 +18,6 @@ website:
         href: photos.qmd
       - text: Contact me!
         href: contact.qmd
-#      - about.qmd
 
 format:
   html:
@@ -26,4 +26,3 @@ format:
     toc: true
 
 editor: visual
-
