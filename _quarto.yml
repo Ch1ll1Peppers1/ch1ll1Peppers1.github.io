@@ -10,11 +10,13 @@ website:
       - text: Research
         href: about.qmd
       - text: Talks
-        href: members.qmd
+        href: talks.qmd
       - text: Awards
-        href: join.qmd
+        href: awards.qmd
+      - text: Photos
+        href: photos.qmd
       - text: Contact me!
-        href: support.qmd
+        href: contact.qmd
 #      - about.qmd
 
 format:
