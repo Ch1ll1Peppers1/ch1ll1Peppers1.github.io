@@ -14,7 +14,7 @@ import { SITE } from "./src/config";
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
-  base: "/ch1ll1peppers1.github.io/",
+  //base: "/ch1ll1peppers1.github.io/",
   integrations: [
     sitemap({
       filter: page => SITE.showArchives || !page.endsWith("/archives"),
