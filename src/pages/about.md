@@ -2,10 +2,13 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
+Dear Reader,
+
+Hello, my name is Luis Mario Ramirez Cruz.
 
 AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
 
-![Astro Paper](LMRC.jpeg)
+![LMRC](LMRC.JPEG)
 
 AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
 
