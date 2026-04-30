@@ -1,14 +1,29 @@
 ---
-author: Alberto Perdomo
-pubDatetime: 2024-09-08T20:58:52.737Z
-modDatetime: 2025-03-22T09:25:46.734Z
-title: How to add LaTeX Equations in Astro blog posts
+author: Luis Mario Ramirez Cruz
+pubDatetime: 2025-12-31T20:58:52.737Z
+modDatetime: 2026-04-22T09:25:46.734Z
+title: Making the most out of your college experience
 tags:
-  - docs
-description: Learn how to add LaTeX equations in Astro blog posts using Markdown, KaTeX, and remark/rehype plugins.
+  - college_advice
+description: Based on my personal experience and the help of multiple people, here is my advice as a first-gen student who knew little about the college experience.
 ---
 
-This document demonstrates how to use LaTeX equations in your Markdown files for AstroPaper. LaTeX is a powerful typesetting system often used for mathematical and scientific documents.
+Hello! I went to the University of California, Santa Cruz from 2023-2027, where I double majored in Biology & Computer Engineering. I was the first of my family to start college at a US institution and I had little to no advice to start, here is a collection of things I wish I knew before I started school.
+
+## Freshman Year
+
+Freshman Year is a 
+
+
+Some of my advice:
+
+- Make sure to have an academic plan done: When I went my freshman year with my engineering advisor I was told to not make a plan since classes offered every year change and it made no sense for me to do this. I am so glad I didn't follow this advice, I would recommend everyone to make a plan. There are probably some templates available in your major's website but do whatever works for you, now do this being totally conscious that your plan __will__ change. Having a plan even if it will definitely have to change means that the classes you need are not this abstract idea that is in the air, but they are something that you know, it helps you prioritize which classes to take and to understand what pace you need to graduate on time.
+
+There are a lot of resources that make this easy, my way of creating my schedule was to look at all my upper division classes and seeing what where their prerequisites. You will notice that there are some classes that are key to opening up most of the upper divisions and this are the classes you want to be prioritizing. The more flexibility that you have on later quarters when choosing your classes, the easier it will be for you to adjust your schedule in the future.
+
+Another way for you to create your schedule is to look at what the schedule of classes in the past has been. There is always change, but most of your lower division classes have a fairly consistent cycle (if it has been offered on spring for the past 5 years, more likely than not it will keep being offered on spring). Another thing to consider is the professors that will be teaching your classes. I had some friend that loved taking hard professors because they believed that it made them stronger students. I personally believe that your transcript will have the exact same class with a grade regardless of who your teacher was, if you can you should try to make your life easier. A good way to get an idea is to look at historical grade spreads of the teacher in places like <a href="https://slugtistics.com/"> Slugtistics.</a>
+
+
 
 <figure>
   <img
