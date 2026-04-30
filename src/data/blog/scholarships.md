@@ -2,7 +2,7 @@
 author: Luis Mario Ramirez Cruz
 pubDatetime: 2026-04-29T08:58:52.737Z
 modDatetime: 2026-04-29T09:25:46.734Z
-title: Making the most out of your college experience
+title: Scholarship Advice
 tags:
   - scholarships
 description: Based on my personal experience and the help of multiple people, here is my advice as a first-gen student who knew little about the college experience.
