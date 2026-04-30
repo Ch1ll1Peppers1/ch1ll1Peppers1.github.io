@@ -1,7 +1,7 @@
 ---
 author: Luis Mario Ramirez Cruz
-pubDatetime: 2026-04-30T20:58:52.737Z
-modDatetime: 2026-04-30T09:25:46.734Z
+pubDatetime: 2026-04-29T08:58:52.737Z
+modDatetime: 2026-04-29T09:25:46.734Z
 title: Making the most out of your college experience
 tags:
   - scholarships
