@@ -9,9 +9,7 @@ Hello, my name is Luis Mario Ramirez Cruz.
 AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
 
 ![Niwot Ridge, CO - 2025](public/LMRC_.jpg)
-<figure>
-  <figcaption class="text-center">University of Colorado Mountain Research Station, 2025</figcaption>
-</figure>
+<figcaption class="text-center">University of Colorado Mountain Research Station, 2025</figcaption>
 
 AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
 
